@@ -1,4 +1,8 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Welcome](README.md)
+
+## Packages
+
+* [redis](packages/redis.md)
 

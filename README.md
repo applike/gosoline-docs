@@ -1,2 +1,4 @@
-# Initial page
+# Welcome
+
+![](.gitbook/assets/gosoline.svg)
 
